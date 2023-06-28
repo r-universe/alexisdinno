@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "conover.test"]
 	path = conover.test
 	url = https://github.com/cran/conover.test
-	shallow = true
-	registered = true
 [submodule "dunn.test"]
 	path = dunn.test
 	url = https://github.com/cran/dunn.test
-	shallow = true
-	registered = true
 [submodule "LoopAnalyst"]
 	path = LoopAnalyst
 	url = https://github.com/cran/LoopAnalyst
-	shallow = true
-	registered = true
 [submodule "paran"]
 	path = paran
 	url = https://github.com/cran/paran
-	shallow = true
-	registered = true
