@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "LoopAnalyst"]
+	path = LoopAnalyst
+	url = https://github.com/cran/LoopAnalyst
 [submodule "conover.test"]
 	path = conover.test
 	url = https://github.com/cran/conover.test
 [submodule "dunn.test"]
 	path = dunn.test
 	url = https://github.com/cran/dunn.test
-[submodule "LoopAnalyst"]
-	path = LoopAnalyst
-	url = https://github.com/cran/LoopAnalyst
 [submodule "paran"]
 	path = paran
 	url = https://github.com/cran/paran
