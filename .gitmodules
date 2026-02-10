@@ -14,3 +14,6 @@
 [submodule "paran"]
 	path = paran
 	url = https://github.com/cran/paran
+[submodule "tost.suite"]
+	path = tost.suite
+	url = https://github.com/cran/tost.suite
